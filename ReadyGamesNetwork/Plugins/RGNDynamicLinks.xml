@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RGNDynamicLinks</name>
+    </assembly>
+    <members>
+        <member name="T:RGN.Modules.DynamicLinks.DynamicLinksModule">
+            <summary>
+            This module is responsible to work with firebase dynamic links
+            </summary>
+        </member>
+        <member name="M:RGN.Modules.DynamicLinks.DynamicLinksModule.Init">
+            <summary>
+            Initializes the DynamicLinksModule.
+            </summary>
+        </member>
+        <member name="M:RGN.Modules.DynamicLinks.DynamicLinksModule.Dispose(System.Boolean)">
+            <summary>
+            Releases all resources used by the DynamicLinksModule.
+            </summary>
+        </member>
+    </members>
+</doc>
